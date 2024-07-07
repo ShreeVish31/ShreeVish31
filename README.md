@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shree Vishwakarma</h1>
-<h3 align="center">I am a BSCIT student. Currently in second year from Thakur College.</h3>
+<h3 align="center">I am a BSCIT student. Currently in third year from Thakur College.</h3>
 
 - 📫 How to reach me **shreevish53@gmail.com**
 
